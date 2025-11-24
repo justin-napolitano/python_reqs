@@ -23,6 +23,13 @@ seoSecondaryKeywords:
   - google cloud
   - jupyter
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post centers on managing Python dependencies specifically for finance and geospatial data
+  workflows, reproducible environments, and includes Jupyter and Google Cloud data tools—all
+  strongly aligned with data analysis and scientific workflows described in the 'datascience'
+  family.
 ---
 
 # python_reqs: Dependency Management for Finance-Focused Python Projects
@@ -66,3 +73,4 @@ This curated list suggests the project supports complex workflows involving geos
 ## Summary
 
 `python_reqs` is a focused dependency management repository designed to maintain stable Python environments for finance and geospatial data projects leveraging Google Cloud and Jupyter tools. Its primary value lies in precise version control of a complex set of interdependent packages, ensuring reproducibility and operational stability.
+
