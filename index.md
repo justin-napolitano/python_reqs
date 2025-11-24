@@ -1,12 +1,29 @@
 ---
-slug: "github-python-reqs"
-title: "python_reqs"
-repo: "justin-napolitano/python_reqs"
-githubUrl: "https://github.com/justin-napolitano/python_reqs"
-generatedAt: "2025-11-23T09:30:54.176471Z"
-source: "github-auto"
+slug: github-python-reqs
+title: 'python_reqs: Dependency Management for Finance and Geospatial Python Projects'
+repo: justin-napolitano/python_reqs
+githubUrl: https://github.com/justin-napolitano/python_reqs
+generatedAt: '2025-11-23T09:30:54.176471Z'
+source: github-auto
+summary: >-
+  Collection of pinned Python package versions for finance and geospatial workflows, ensuring
+  reproducible environments with Google Cloud and Jupyter tools.
+tags:
+  - python
+  - dependency-management
+  - finance-data
+  - geospatial
+  - google-cloud
+  - jupyter
+seoPrimaryKeyword: dependency management
+seoSecondaryKeywords:
+  - python dependencies
+  - finance python
+  - geospatial python
+  - google cloud
+  - jupyter
+seoOptimized: true
 ---
-
 
 # python_reqs: Dependency Management for Finance-Focused Python Projects
 
