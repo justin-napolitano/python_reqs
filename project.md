@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/python_reqs
 generatedAt: '2025-11-24T21:36:07.321Z'
 source: github-auto
 summary: >-
-  Manage Python package versions for finance projects to ensure reproducibility
-  and consistency across environments.
+  Manage Python package versions for finance projects to ensure reproducibility and consistency
+  across environments.
 tags:
   - python
   - requirements
@@ -24,8 +24,8 @@ seoSecondaryKeywords:
   - google cloud integration
   - jupyter environment setup
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -82,3 +82,4 @@ python_reqs/
 ---
 
 *Note: This repository currently only contains a requirements file under a finance directory. Additional context or code may be added in the future.*
+
