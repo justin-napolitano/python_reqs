@@ -1,19 +1,29 @@
 ---
 slug: github-python-reqs
 id: github-python-reqs
-title: python_reqs
+title: Python Dependency Management for Finance Projects
 repo: justin-napolitano/python_reqs
 githubUrl: https://github.com/justin-napolitano/python_reqs
 generatedAt: '2025-11-24T21:36:07.321Z'
 source: github-auto
 summary: >-
-  A repository containing Python dependency requirements primarily for
-  finance-related projects. This repo centralizes and manages Python package
-  versions to ensure reproducibility and consistency across environments.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Manage Python package versions for finance projects to ensure reproducibility
+  and consistency across environments.
+tags:
+  - python
+  - requirements
+  - finance
+  - geospatial
+  - google-cloud
+  - jupyter
+seoPrimaryKeyword: python dependency management
+seoSecondaryKeywords:
+  - python requirements file
+  - finance libraries
+  - geospatial analysis
+  - google cloud integration
+  - jupyter environment setup
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
