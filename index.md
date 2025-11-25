@@ -1,13 +1,13 @@
 ---
 slug: github-python-reqs
-title: 'python_reqs: Dependency Management for Finance and Geospatial Python Projects'
+title: Managing Python Dependencies for Finance Projects
 repo: justin-napolitano/python_reqs
 githubUrl: https://github.com/justin-napolitano/python_reqs
 generatedAt: '2025-11-23T09:30:54.176471Z'
 source: github-auto
 summary: >-
-  Collection of pinned Python package versions for finance and geospatial workflows, ensuring
-  reproducible environments with Google Cloud and Jupyter tools.
+  Explore a structured approach to managing Python dependencies in
+  finance-focused projects, ensuring reproducibility and stability.
 tags:
   - python
   - dependency-management
@@ -15,21 +15,28 @@ tags:
   - geospatial
   - google-cloud
   - jupyter
-seoPrimaryKeyword: dependency management
+  - dependency management
+  - finance
+  - data analysis
+  - requirements
+seoPrimaryKeyword: python dependency management finance
 seoSecondaryKeywords:
-  - python dependencies
-  - finance python
-  - geospatial python
-  - google cloud
-  - jupyter
+  - python requirements file
+  - version control python
+  - geospatial data analysis
+  - google cloud python
+  - jupyter ecosystem
+  - data science dependencies
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post centers on managing Python dependencies specifically for finance and geospatial data
-  workflows, reproducible environments, and includes Jupyter and Google Cloud data tools—all
-  strongly aligned with data analysis and scientific workflows described in the 'datascience'
-  family.
+  The post centers on managing Python dependencies specifically for finance and
+  geospatial data workflows, reproducible environments, and includes Jupyter and
+  Google Cloud data tools—all strongly aligned with data analysis and scientific
+  workflows described in the 'datascience' family.
+kind: project
+id: github-python-reqs
 ---
 
 # python_reqs: Dependency Management for Finance-Focused Python Projects
